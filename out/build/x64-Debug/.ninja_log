@@ -1,0 +1,6 @@
+# ninja log v6
+5	160	7637793952263751	build.ninja	a763b869e5aa9879
+2	454	7637777001629060	CMakeFiles/VulkhanEngine.dir/src/main.cpp.obj	83d621b264984466
+456	947	7637777006161254	VulkhanEngine.exe	bc7eb993b3524734
+4	960	7637794010286167	CMakeFiles/VulkanEngine.dir/src/main.cpp.obj	911c009152a3d85c
+962	1355	7637794019866452	VulkanEngine.exe	eb9d498698223909

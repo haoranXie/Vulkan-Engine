@@ -1,0 +1,3 @@
+D:/Code Projects/Vulkan/Udemy Course/out/build/x64-Debug/CMakeFiles/VulkanEngine.dir
+D:/Code Projects/Vulkan/Udemy Course/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Code Projects/Vulkan/Udemy Course/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
