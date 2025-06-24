@@ -1,0 +1,3 @@
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/microsoft-gsl-subbuild/CMakeFiles/microsoft-gsl-populate.dir
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/microsoft-gsl-subbuild/CMakeFiles/edit_cache.dir
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/microsoft-gsl-subbuild/CMakeFiles/rebuild_cache.dir

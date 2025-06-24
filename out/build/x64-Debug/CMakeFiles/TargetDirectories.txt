@@ -66,3 +66,13 @@ D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glfw-build/tests/CMakeFi
 D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glfw-build/tests/CMakeFiles/list_install_components.dir
 D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glfw-build/tests/CMakeFiles/install.dir
 D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glfw-build/tests/CMakeFiles/install/local.dir
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/microsoft-gsl-build/CMakeFiles/edit_cache.dir
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/microsoft-gsl-build/CMakeFiles/rebuild_cache.dir
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/microsoft-gsl-build/CMakeFiles/list_install_components.dir
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/microsoft-gsl-build/CMakeFiles/install.dir
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/microsoft-gsl-build/CMakeFiles/install/local.dir
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/microsoft-gsl-build/include/CMakeFiles/edit_cache.dir
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/microsoft-gsl-build/include/CMakeFiles/rebuild_cache.dir
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/microsoft-gsl-build/include/CMakeFiles/list_install_components.dir
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/microsoft-gsl-build/include/CMakeFiles/install.dir
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/microsoft-gsl-build/include/CMakeFiles/install/local.dir

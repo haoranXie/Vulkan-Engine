@@ -282,6 +282,10 @@ FETCHCONTENT_SOURCE_DIR_GLFW:PATH=
 // for glm
 FETCHCONTENT_SOURCE_DIR_GLM:PATH=
 
+//When not empty, overrides where to find pre-populated content
+// for microsoft-gsl
+FETCHCONTENT_SOURCE_DIR_MICROSOFT-GSL:PATH=
+
 //Enables UPDATE_DISCONNECTED behavior for all content population
 FETCHCONTENT_UPDATES_DISCONNECTED:BOOL=OFF
 
@@ -290,6 +294,9 @@ FETCHCONTENT_UPDATES_DISCONNECTED_GLFW:BOOL=OFF
 
 //Enables UPDATE_DISCONNECTED behavior just for population of glm
 FETCHCONTENT_UPDATES_DISCONNECTED_GLM:BOOL=OFF
+
+//Enables UPDATE_DISCONNECTED behavior just for population of microsoft-gsl
+FETCHCONTENT_UPDATES_DISCONNECTED_MICROSOFT-GSL:BOOL=OFF
 
 //Git command line client
 GIT_EXECUTABLE:FILEPATH=C:/Program Files/Git/cmd/git.exe
@@ -320,6 +327,24 @@ GLFW_USE_HYBRID_HPG:BOOL=OFF
 
 //Assume the Vulkan loader is linked with the application
 GLFW_VULKAN_STATIC:BOOL=OFF
+
+//Value Computed by CMake
+GSL_BINARY_DIR:STATIC=D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/microsoft-gsl-build
+
+//Use c++ standard
+GSL_CXX_STANDARD:STRING=14
+
+//Generate and install GSL target
+GSL_INSTALL:BOOL=OFF
+
+//Value Computed by CMake
+GSL_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+GSL_SOURCE_DIR:STATIC=D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/microsoft-gsl-src
+
+//Build and perform GSL tests
+GSL_TEST:BOOL=OFF
 
 //Use MSVC runtime library DLL
 USE_MSVC_RUNTIME_LIBRARY_DLL:BOOL=ON
@@ -483,7 +508,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MT
 CMAKE_MT-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=7
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=9
 //Platform information initialized
 CMAKE_PLATFORM_INFO_INITIALIZED:INTERNAL=1
 //noop for ranlib
@@ -537,6 +562,8 @@ FIND_PACKAGE_MESSAGE_DETAILS_Threads:INTERNAL=[TRUE][v()]
 FIND_PACKAGE_MESSAGE_DETAILS_Vulkan:INTERNAL=[C:/VulkanSDK/1.4.313.2/Lib/vulkan-1.lib][C:/VulkanSDK/1.4.313.2/Include][cfound components: glslc glslangValidator ][v1.4.313()]
 //ADVANCED property for variable: GIT_EXECUTABLE
 GIT_EXECUTABLE-ADVANCED:INTERNAL=1
+//Native visualizers are Visual Studio extension
+GSL_VS_ADD_NATIVE_VISUALIZERS:INTERNAL=FALSE
 //ADVANCED property for variable: Vulkan_GLSLANG_VALIDATOR_EXECUTABLE
 Vulkan_GLSLANG_VALIDATOR_EXECUTABLE-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: Vulkan_GLSLC_EXECUTABLE

@@ -9,7 +9,8 @@
 					"childIndexes" : 
 					[
 						1,
-						3
+						3,
+						7
 					],
 					"hasInstallRule" : true,
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
@@ -145,6 +146,32 @@
 						28,
 						32
 					]
+				},
+				{
+					"build" : "_deps/microsoft-gsl-build",
+					"childIndexes" : 
+					[
+						8
+					],
+					"jsonFile" : "directory-_deps.microsoft-gsl-build-Debug-1aeb8b352e978f82a19a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.3"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "out/build/x64-Debug/_deps/microsoft-gsl-src"
+				},
+				{
+					"build" : "_deps/microsoft-gsl-build/include",
+					"jsonFile" : "directory-_deps.microsoft-gsl-build.include-Debug-8d55ed83048835d1c769.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.3"
+					},
+					"parentIndex" : 7,
+					"projectIndex" : 3,
+					"source" : "out/build/x64-Debug/_deps/microsoft-gsl-src/include"
 				}
 			],
 			"name" : "Debug",
@@ -154,7 +181,8 @@
 					"childIndexes" : 
 					[
 						1,
-						2
+						2,
+						3
 					],
 					"directoryIndexes" : 
 					[
@@ -220,6 +248,15 @@
 						31,
 						32
 					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7,
+						8
+					],
+					"name" : "GSL",
+					"parentIndex" : 0
 				}
 			],
 			"targets" : 
@@ -227,7 +264,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "VulkanEngine::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-VulkanEngine-Debug-4dfd34a6bfdd61f2a7e0.json",
+					"jsonFile" : "target-VulkanEngine-Debug-e13093fcfcc0c24441d5.json",
 					"name" : "VulkanEngine",
 					"projectIndex" : 0
 				},

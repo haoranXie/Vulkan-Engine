@@ -30,37 +30,43 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 31,
+				"line" : 40,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 32,
+				"line" : 41,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 34,
+				"line" : 43,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 38,
+				"line" : 48,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 33,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 44,
 				"parent" : 0
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 40,
+				"line" : 50,
 				"parent" : 0
 			}
 		]
@@ -92,6 +98,11 @@
 					"backtrace" : 2,
 					"isSystem" : true,
 					"path" : "C:/VulkanSDK/1.4.313.2/Include"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/microsoft-gsl-src/include"
 				}
 			],
 			"language" : "CXX",
@@ -99,6 +110,7 @@
 			{
 				"backtraces" : 
 				[
+					7,
 					6
 				],
 				"standard" : "20"
