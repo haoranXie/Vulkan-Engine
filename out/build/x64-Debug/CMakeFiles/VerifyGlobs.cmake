@@ -5,6 +5,7 @@ cmake_policy(SET CMP0009 NEW)
 # VulkanEngineSources at CMakeLists.txt:35 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "D:/CodeProjects/Vulkan-Engine/src/*.cpp")
 set(OLD_GLOB
+  "D:/CodeProjects/Vulkan-Engine/src/glfw_initialization.cpp"
   "D:/CodeProjects/Vulkan-Engine/src/main.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
@@ -15,6 +16,7 @@ endif()
 # VulkanEngineSources at CMakeLists.txt:35 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "D:/CodeProjects/Vulkan-Engine/src/*.h")
 set(OLD_GLOB
+  "D:/CodeProjects/Vulkan-Engine/src/glfw_initialization.h"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")

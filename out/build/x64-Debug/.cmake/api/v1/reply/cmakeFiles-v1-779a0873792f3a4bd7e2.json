@@ -5,13 +5,17 @@
 			"expression" : "D:/CodeProjects/Vulkan-Engine/src/*.cpp",
 			"paths" : 
 			[
+				"D:/CodeProjects/Vulkan-Engine/src/glfw_initialization.cpp",
 				"D:/CodeProjects/Vulkan-Engine/src/main.cpp"
 			],
 			"recurse" : true
 		},
 		{
 			"expression" : "D:/CodeProjects/Vulkan-Engine/src/*.h",
-			"paths" : [],
+			"paths" : 
+			[
+				"D:/CodeProjects/Vulkan-Engine/src/glfw_initialization.h"
+			],
 			"recurse" : true
 		}
 	],
