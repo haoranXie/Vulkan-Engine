@@ -14,7 +14,8 @@
 			"expression" : "D:/CodeProjects/Vulkan-Engine/src/*.h",
 			"paths" : 
 			[
-				"D:/CodeProjects/Vulkan-Engine/src/glfw_initialization.h"
+				"D:/CodeProjects/Vulkan-Engine/src/glfw_initialization.h",
+				"D:/CodeProjects/Vulkan-Engine/src/precomp.h"
 			],
 			"recurse" : true
 		}

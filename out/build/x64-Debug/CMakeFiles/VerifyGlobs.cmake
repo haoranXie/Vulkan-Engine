@@ -17,6 +17,7 @@ endif()
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "D:/CodeProjects/Vulkan-Engine/src/*.h")
 set(OLD_GLOB
   "D:/CodeProjects/Vulkan-Engine/src/glfw_initialization.h"
+  "D:/CodeProjects/Vulkan-Engine/src/precomp.h"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
