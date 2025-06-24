@@ -1,0 +1,21 @@
+# ninja log v6
+3	58	7724669237334328	glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	616b98c54bfc3fb3
+3	58	7724669237334328	D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	616b98c54bfc3fb3
+8	27606	7724679870380928	glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	adb7fe5d80444788
+8	27606	7724679870380928	D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	adb7fe5d80444788
+27607	27738	7724679870442040	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	fa62287e3033c809
+27607	27738	7724679870442040	D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	fa62287e3033c809
+27738	27791	7724679872230995	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	e4313f1c041079f3
+27738	27791	7724679872230995	D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	e4313f1c041079f3
+27792	27844	7724679872763269	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	dfa36adfac168d45
+27792	27844	7724679872763269	D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	dfa36adfac168d45
+27845	27898	7724679873302146	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	b8bbb7ae7b0f9093
+27845	27898	7724679873302146	D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	b8bbb7ae7b0f9093
+27898	27956	7724679873879992	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	c82de87d61e0e099
+27898	27956	7724679873879992	D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	c82de87d61e0e099
+27956	28010	7724679874421567	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	30a5879919ef33a1
+27956	28010	7724679874421567	D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	30a5879919ef33a1
+28010	28080	7724679875126571	CMakeFiles/glm-populate-complete	c573ac07de26277f
+28010	28080	7724679875126571	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	c573ac07de26277f
+28010	28080	7724679875126571	D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	c573ac07de26277f
+28010	28080	7724679875126571	D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	c573ac07de26277f

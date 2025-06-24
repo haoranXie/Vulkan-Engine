@@ -1,0 +1,14 @@
+# Target labels
+ glm-populate
+# Source files and their labels
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/CMakeFiles/glm-populate
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/CMakeFiles/glm-populate.rule
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/CMakeFiles/glm-populate-complete.rule
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build.rule
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure.rule
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download.rule
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install.rule
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir.rule
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch.rule
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test.rule
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update.rule

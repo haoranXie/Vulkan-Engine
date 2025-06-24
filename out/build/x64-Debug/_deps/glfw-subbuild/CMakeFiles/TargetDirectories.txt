@@ -1,0 +1,3 @@
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate.dir
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glfw-subbuild/CMakeFiles/edit_cache.dir
+D:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/_deps/glfw-subbuild/CMakeFiles/rebuild_cache.dir
