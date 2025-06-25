@@ -71,6 +71,14 @@ build CMakeFiles\VulkanEngine.dir\src\glfw_initialization.cpp.obj: CXX_COMPILER_
   TARGET_COMPILE_PDB = CMakeFiles\VulkanEngine.dir\
   TARGET_PDB = VulkanEngine.pdb
 
+build CMakeFiles\VulkanEngine.dir\src\glfw_monitor.cpp.obj: CXX_COMPILER__VulkanEngine_unscanned_Debug D$:\CodeProjects\Vulkan-Engine\src\glfw_monitor.cpp | CMakeFiles\VulkanEngine.dir\cmake_pch.hxx CMakeFiles\VulkanEngine.dir\cmake_pch.cxx.pch || cmake_object_order_depends_target_VulkanEngine
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /YuD:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/CMakeFiles/VulkanEngine.dir/cmake_pch.hxx /FpD:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/CMakeFiles/VulkanEngine.dir/./cmake_pch.cxx.pch /FID:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/CMakeFiles/VulkanEngine.dir/cmake_pch.hxx
+  INCLUDES = -ID:\CodeProjects\Vulkan-Engine\src -ID:\CodeProjects\Vulkan-Engine\out\build\x64-Debug\_deps\glm-src\glm\.. -ID:\CodeProjects\Vulkan-Engine\out\build\x64-Debug\_deps\glfw-src\include -external:IC:\VulkanSDK\1.4.313.2\Include -external:ID:\CodeProjects\Vulkan-Engine\out\build\x64-Debug\_deps\microsoft-gsl-src\include -external:W0
+  OBJECT_DIR = CMakeFiles\VulkanEngine.dir
+  OBJECT_FILE_DIR = CMakeFiles\VulkanEngine.dir\src
+  TARGET_COMPILE_PDB = CMakeFiles\VulkanEngine.dir\
+  TARGET_PDB = VulkanEngine.pdb
+
 build CMakeFiles\VulkanEngine.dir\src\main.cpp.obj: CXX_COMPILER__VulkanEngine_unscanned_Debug D$:\CodeProjects\Vulkan-Engine\src\main.cpp | CMakeFiles\VulkanEngine.dir\cmake_pch.hxx CMakeFiles\VulkanEngine.dir\cmake_pch.cxx.pch || cmake_object_order_depends_target_VulkanEngine
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /YuD:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/CMakeFiles/VulkanEngine.dir/cmake_pch.hxx /FpD:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/CMakeFiles/VulkanEngine.dir/./cmake_pch.cxx.pch /FID:/CodeProjects/Vulkan-Engine/out/build/x64-Debug/CMakeFiles/VulkanEngine.dir/cmake_pch.hxx
   INCLUDES = -ID:\CodeProjects\Vulkan-Engine\src -ID:\CodeProjects\Vulkan-Engine\out\build\x64-Debug\_deps\glm-src\glm\.. -ID:\CodeProjects\Vulkan-Engine\out\build\x64-Debug\_deps\glfw-src\include -external:IC:\VulkanSDK\1.4.313.2\Include -external:ID:\CodeProjects\Vulkan-Engine\out\build\x64-Debug\_deps\microsoft-gsl-src\include -external:W0
@@ -87,7 +95,7 @@ build CMakeFiles\VulkanEngine.dir\src\main.cpp.obj: CXX_COMPILER__VulkanEngine_u
 #############################################
 # Link the executable VulkanEngine.exe
 
-build VulkanEngine.exe: CXX_EXECUTABLE_LINKER__VulkanEngine_Debug CMakeFiles\VulkanEngine.dir\cmake_pch.cxx.obj CMakeFiles\VulkanEngine.dir\src\glfw_initialization.cpp.obj CMakeFiles\VulkanEngine.dir\src\main.cpp.obj | C$:\VulkanSDK\1.4.313.2\Lib\vulkan-1.lib _deps\glfw-build\src\glfw3.lib || _deps\glfw-build\src\glfw3.lib
+build VulkanEngine.exe: CXX_EXECUTABLE_LINKER__VulkanEngine_Debug CMakeFiles\VulkanEngine.dir\cmake_pch.cxx.obj CMakeFiles\VulkanEngine.dir\src\glfw_initialization.cpp.obj CMakeFiles\VulkanEngine.dir\src\glfw_monitor.cpp.obj CMakeFiles\VulkanEngine.dir\src\main.cpp.obj | C$:\VulkanSDK\1.4.313.2\Lib\vulkan-1.lib _deps\glfw-build\src\glfw3.lib || _deps\glfw-build\src\glfw3.lib
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = C:\VulkanSDK\1.4.313.2\Lib\vulkan-1.lib  _deps\glfw-build\src\glfw3.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib

@@ -6,6 +6,7 @@ cmake_policy(SET CMP0009 NEW)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "D:/CodeProjects/Vulkan-Engine/src/*.cpp")
 set(OLD_GLOB
   "D:/CodeProjects/Vulkan-Engine/src/glfw_initialization.cpp"
+  "D:/CodeProjects/Vulkan-Engine/src/glfw_monitor.cpp"
   "D:/CodeProjects/Vulkan-Engine/src/main.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
@@ -17,6 +18,7 @@ endif()
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "D:/CodeProjects/Vulkan-Engine/src/*.h")
 set(OLD_GLOB
   "D:/CodeProjects/Vulkan-Engine/src/glfw_initialization.h"
+  "D:/CodeProjects/Vulkan-Engine/src/glfw_monitor.h"
   "D:/CodeProjects/Vulkan-Engine/src/precomp.h"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
